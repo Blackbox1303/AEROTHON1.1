@@ -1,2 +1,2 @@
-# AEROTHON
-AEOLUS: object detection round 2
+# AEROTHON 26-27
+AEOLUS
